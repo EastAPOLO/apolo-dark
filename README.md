@@ -1,10 +1,10 @@
-#Apolo-Dark
+# Apolo-Dark
 Dark version of my gtk theme with the goal of being simple to modify. 
 
-##Hacking
+## Hacking
 You can edit the theme in `gtk3/gtk.css` and the assets in `gtk3/assets.svg`.
 
-##Colors
+## Colors
 * Primary Background Color: `#1A1A1A`
 * Secondary Background Color: `#1F1F1F`
 * Primary Foreground Color: `#EAEAEA`
