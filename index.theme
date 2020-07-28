@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=apolo-dark
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=apolo-dark
+MetacityTheme=apolo-dark
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
